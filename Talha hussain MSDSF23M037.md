@@ -1,17 +1,16 @@
 # Talha Hussain
 
-+92 3161746055 \| talhatalha6895@gmail.com\| Lahore, Pakistan
++92 3161746055 \| talhatalha6895@gmail.com \| Lahore, Pakistan
 
 ------------------------------------------------------------------------
 
 ## Data scientist
 
-An excellent team player who is flexible and has a positive attitude
-towards achieving the goals to the best of my abilities. Knowledgeable
-Business Intelligence Developer skilled in data collection, data analysis
-and generating insight from data. A solutions driven analyst focused to
-achieve improved business and operational processes with the use of
-analytical abilities and a technical background.
+Data Scientist with a Msc in Mathematics and experience in research. Skilled in building 
+and handling data problems related to mathematics. Specifically, experience in using integer
+programing for data analysis combined with forecasting and machine learning. Having 
+recently moved to -xyz- I am keen to contribute my Mathematics and data science expertise to 
+a dynamic and innovative team working in the area.
 
 ------------------------------------------------------------------------
 
@@ -29,66 +28,41 @@ analytical abilities and a technical background.
 
 ## WORK EXPERIENCE
 
-### Power BI Developer \| ZNB Consulting Services
+### Data entry operator 
 
-September 2022 - July 2023\
-- Develop and maintain Power BI reports, dashboards, and visualizations
-for business insights and data-driven decisions.\
-- Develop data models and ETL processes to ensure data accuracy,
-consistency, and integrity.\
-- Optimize Power BI reports and dashboards for performance and
-scalability.\
-- Troubleshoot issues with Power BI reports and dashboards, and
-implement solutions.\
-- Stay up-to-date with the latest Power BI features and recommend new
-solutions to improve the BI environment.\
-- Collaborate with cross-functional teams, including data engineers,
-analysts, and business stakeholders.
+September 2022 - July 2023
+- Developed database for rental properties, customers, and property owners
+to maintain up-to-date data and analyse market trends, resulting in a 24%
+increase in customer and vendor satisfaction rate using mathematical modals.
 ------------------------------------------------------------------------
 ## SKILLS
 
-Python \| NumPy \| Pandas \| Matplotlib \| Scipy \| SQL \| Dax \| Data
-Analysis \| Data Visualization and Storytelling \| Statistical Analysis
-\| EDA \| Microsoft Power BI \| QuickSights \| Excel
+Integer programing \| forecasting \| DataAnalysis \|Statistical Analysis\|
+Canva \| Excel Python \| NumPy \| Pandas \| regression modals \|
+SQL\|
 
 ------------------------------------------------------------------------
 
 ## CERTIFICATES/COURSES
 
--   Google Data Analytics \| Coursera
--   Introducing Dax \| SQL BI
--   SQL \| HackerRank
--   Python (Basic) \| HackerRank
--   SEO \| DigiSkills
--   E-Commerce Management \| DigiSkills
+-Two days training workshop on deep learning modals for image recoginition 
+and dynamical simulation ,poster,quiz competition,organized by deparatment 
+of mathematics,government university college faislabad. 
 
 ------------------------------------------------------------------------
 
 ## PROJECTS
 
-### A Statistical Analysis of Unemployment in Medical Field
+### Benifits of linear programming for profit maximization 
 
 -   Manually collected and cleaned data using various techniques to
     ensure data accuracy and completeness.
--   Applied inferential and descriptive statistics techniques to analyze
+-   Applied linear proramming and forescasting techniques to analyze
     the data and draw insights.
 -   Formulated hypotheses and conducted hypothesis tests to validate the
-    hypotheses and draw statistically significant conclusions.
+    hypotheses and draw conclusions.
 -   Presented the findings and recommendations based on the analysis
     using various visualizations, such as charts and graphs.
-
-### Happy Hired! A Flutter Web Application to Streamline the Hiring Process
-
--   Developed Happy Hired!, a robust Flutter web application using
-    Flutter framework, VisualStudio Code (VSCode), and Firebase.
--   Simplified the hiring process by efficiently identifying and
-    acquiring top talent for organizations.
--   Empowered job seekers with the ability to focus on and enhance their
-    relevant skills, bridging the gap between their current skills and
-    market demands.
--   Leveraged Firebase for seamless data management, authentication, and
-    real-time communication, ensuring a smooth and responsive user
-    experience throughout the hiring journey.
 
 ------------------------------------------------------------------------
 
