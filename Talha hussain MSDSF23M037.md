@@ -18,22 +18,12 @@ a dynamic and innovative team working in the area.
 
 ### MS Data Science \| PUCIT, Lahore
 
--   2023 - Continue
+-   2023 - 2025
 
 ### Msc mathematics \| University of okara, okara
 
 -   August 2021- August 2023
 
-------------------------------------------------------------------------
-
-## WORK EXPERIENCE
-
-### Data entry operator 
-
-September 2022 - July 2023
-- Developed database for rental properties, customers, and property owners
-to maintain up-to-date data and analyse market trends, resulting in a 24%
-increase in customer and vendor satisfaction rate using mathematical modals.
 ------------------------------------------------------------------------
 ## SKILLS
 
@@ -63,9 +53,3 @@ of mathematics,government university college faislabad.
     hypotheses and draw conclusions.
 -   Presented the findings and recommendations based on the analysis
     using various visualizations, such as charts and graphs.
-
-------------------------------------------------------------------------
-
-## Languages
--   English
--   Urdu
